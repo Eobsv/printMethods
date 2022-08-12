@@ -1,4 +1,4 @@
-name = "Mike"
+name = "John"
 age = 22
 money = 10.75
 
